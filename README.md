@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imnot_avanish)
 
 
-### KinGEvilHacker github stats 
+### DRAX-OP github stats 
 <p align="center">
     <img
         width="52%"
